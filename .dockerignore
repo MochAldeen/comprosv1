@@ -1,0 +1,16 @@
+# Abaikan folder src dan components
+components/
+
+# Abaikan node_modules (jika ada)
+node_modules/
+
+# Abaikan file environment (opsional)
+.env
+.env.local
+
+# Abaikan file log (opsional)
+*.log
+
+# Abaikan folder build atau dist (jika ada)
+dist/
+build/
