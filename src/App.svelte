@@ -20,13 +20,6 @@
   };
 </script>
 
-<nav>
-  <a use:link href="/">Home</a>
-  <a use:link href="/about">About</a>
-  <a use:link href="/services">Services</a>
-  <a use:link href="/contact">Contact</a>
-</nav>
-
 <Header />
 
 <main>
